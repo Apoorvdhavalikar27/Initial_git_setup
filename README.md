@@ -2,7 +2,7 @@
   Contains commands for setting up a git repository
 
 * Setup Username and Email <br />
-git config --global user.name "I Am Apoorv"<br />
+git config --global user.name "Apoorvdhavalikar27"<br />
 git config --global user.email apoorvdhavalikar1@gmail.com<br />
  
 
