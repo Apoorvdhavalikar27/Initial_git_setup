@@ -14,3 +14,7 @@ git config --global user.email apoorvdhavalikar1@gmail.com<br />
 
 * Push your changes<br />
   git push -u origin master
+ 
+* To Remove Remote Repo<br />
+  git remote remove origin
+
